@@ -1,0 +1,18 @@
+Vous pouvez ouvrir ou suivre les incidents et demandes d'évolutions du plugin à cette adresse http://helpdesk.cedricguine.com
+
+image::../images/helpdesk_tasks.png[]
+
+
+==== Ouvrir un ticket
+
+Pour ouvrir un ticket http://helpdesk.cedricguine.com/?do=newtask&project=2[Cliquez-ici] puis renseignez les informations demandées. 
+
+- Type : Bug / Evolution
+- Categorie : Le plugin impacté
+- Sévérité : L'impact sur le fonctionnement
+- Basée sur la version : Version du plugin ayant un souci
+- Résumé : Le type de problème / évolution demandée. 
+- Commentaire : Les détails 
+- Votre adresse email : Pour recevoir les notifications de mise à jour. 
+
+image::../images/helpdesk_new.png[]

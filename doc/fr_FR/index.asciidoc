@@ -1,0 +1,36 @@
+== Le Plugin Présence
+
+=== Description
+Le plugin de gestion de la présence vous permet de créer et gérer plusieurs modes (Présent / Absent / Nuit / Travail / Vacances) sur lesquels vous allez pouvoir définir des déclencheurs et actions.
+
+'''
+=== Installation
+Aucune action n'est nécessaire, il suffit d'activer le plugin.
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== Les déclencheurs
+include::declencheurs.asciidoc[]
+
+'''
+=== Les actions
+include::actions.asciidoc[]
+
+'''
+=== Les scénarios
+include::scenarios.asciidoc[]
+
+'''
+=== Le mode Vacances
+include::vacances.asciidoc[]
+
+'''
+=== Programmations
+include::programmations.asciidoc[]
+
+'''
+=== Changelog
+link:https://wiki.jeedom.fr/index.php?title=Presence[Cliquez ici]
