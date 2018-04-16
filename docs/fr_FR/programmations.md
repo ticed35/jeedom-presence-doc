@@ -1,0 +1,13 @@
+L'onglet Programmations vous permet de gérer les différents paramètres de fonctionnement et d'affichage du module.
+
+![presence7](../images/presence_programmations1.png)
+
+Garder le cache permet de ne pas effacer les données et de ne pas attendre la recréation de celui-ci lors de l'enregistrement de l'objet.
+
+Simulation permet de choisir les modes pour lesquels la simulation est active.
+Par défaut elle est active seulement pour le mode Vacance. Il doit y avoir au minimum un mode de sélectionné pour la simulation.
+
+Modes à afficher permet de masquer les modes que vous ne souhaitez pas voir. Pour cela il suffit de décocher les modes à ne pas traiter puis de valider.
+Le bouton de verrouillage permettant de bloquer l'objet sur un mode précis peu être masqué grâce à l'option Bouton de verrouillage.
+
+![presence8](../images/presence_programmations2.png)
