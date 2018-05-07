@@ -1,3 +1,5 @@
+Vacance
+=====
 Le mode Vacances est un peu différent. Il possède 2 types d'actions.
 
 - Les actions "Au départ" : Ces actions sont exécutées après l'activation du mode Vacances. Il est possible de temporiser le déclenchement grâce au minuteur.
