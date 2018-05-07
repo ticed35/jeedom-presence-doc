@@ -1,3 +1,6 @@
+Configuration 
+=====
+
 - Une fois le plugin activé rendez-vous dans Plugins / Organisation / Présence pour ajouter un nouveau module.
 - Cliquez sur le bouton à gauche : "Ajouter".
 
