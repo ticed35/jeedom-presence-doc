@@ -1,3 +1,6 @@
+Déclencheurs
+=====
+
 Les déclencheurs permettent d'activer un mode. Le mode sera validé seulement si le déclencheur est dans l'état programmé depuis le temps choisi.
 
 Pour ajouter un déclencheur il suffit de cliquer sur "Ajouter déclencheur" puis de sélectionner l'appareil servant de déclencheur, l'état de validation et le temps.
