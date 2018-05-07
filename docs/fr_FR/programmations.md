@@ -1,3 +1,6 @@
+Programmations
+=====
+
 L'onglet Programmations vous permet de gérer les différents paramètres de fonctionnement et d'affichage du module.
 
 ![presence7](../images/presence_programmations1.png)
