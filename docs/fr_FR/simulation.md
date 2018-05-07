@@ -1,3 +1,6 @@
+Simulation
+=====
+
 L'onglet Simulation vous permet de gérer des actions de simulation pour les modes choisis.
 Il se décompose en 3 parties :
 
