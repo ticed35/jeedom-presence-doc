@@ -1,3 +1,6 @@
+Scénarios
+=====
+
 Pour utiliser le module sur des conditions (Si) dans les scénarios les valeurs de comparaisons a utiliser sont les noms des modes.
 
 Cela correspond à : 
