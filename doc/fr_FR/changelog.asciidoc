@@ -1,0 +1,3 @@
+= 3.0.1
+
+- Correction du prochain check dans le cas ou plusieurs objets existent
