@@ -33,4 +33,4 @@ include::programmations.asciidoc[]
 
 '''
 === Changelog
-link:https://wiki.jeedom.fr/index.php?title=Presence[Cliquez ici]
+include::changelog.asciidoc[]
