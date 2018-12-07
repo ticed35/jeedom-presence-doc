@@ -1,3 +1,4 @@
+Smart Mode
 =====
 La fonction smart va vous permettre d'anticiper le passage des modes en fonction de l'historique. 
 Le plugin va scruter les changements d'états sur les précédentes semaines et déterminer les probabilités de passage dans l'état. 
