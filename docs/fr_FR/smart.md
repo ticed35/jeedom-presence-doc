@@ -8,7 +8,14 @@ L'avantage principal est la gestion du chauffage afin d'avoir une pièce à temp
 
 Pour activer la fonction : 
 - Se rendre sur l'onglet Programmation de l'objet et activer le mode smart.
-- Renseigner le thermostat sur lequel sera basé les coefficients. 
+
+  Pour le mode automatique :
+  - Renseigner le thermostat sur lequel sera basé les coefficients
+
+  Pour le mode manuel :
+  - Renseigner les coefficients de chauffe et d'inertie.
+  - Renseigner les capteurs de température. 
+
 - Sur les modes pour lesquels vous voulez utiliser la fonction renseigner une température cible a utiliser. 
 - Renseigner les actions qui seront exécutées. 
 
