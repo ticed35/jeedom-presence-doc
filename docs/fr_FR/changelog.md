@@ -2,6 +2,11 @@
 Changelog 
 =========
 
+3.3.0 (21-12-2018)
+=====
+
+-   Ajout de la feature annulation du smart mode
+
 3.2.1 (17-12-2018)
 =====
 
