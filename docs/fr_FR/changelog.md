@@ -2,6 +2,11 @@
 Changelog 
 =========
 
+3.3.1 (24-12-2018)
+=====
+
+-   Correction d'une erreur en cas de vérification du délai d'annulation.
+
 3.3.0 (21-12-2018)
 =====
 
