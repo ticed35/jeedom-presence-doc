@@ -1,6 +1,1 @@
 https://ticed35.github.io/jeedom-presence-doc/fr_FR/changelog
-
----
-interpolate: true
----
-#{site.base_url}/docs/fr_FR/changelog
