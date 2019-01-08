@@ -2,6 +2,11 @@
 Changelog 
 =========
 
+3.3.2 (08-01-2019)
+=====
+
+-   Modal d'affichage des programmations smart. 
+
 3.3.1 (24-12-2018)
 =====
 
