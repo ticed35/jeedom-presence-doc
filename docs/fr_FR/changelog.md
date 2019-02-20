@@ -2,6 +2,11 @@
 Changelog 
 =========
 
+3.4.0 (20-02-2019)
+=====
+
+-   Changement de la date de retour possible sur le dashboard et le site mobile.
+
 3.3.3 (09-01-2019)
 =====
 
