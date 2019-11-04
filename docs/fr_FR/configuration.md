@@ -16,5 +16,6 @@ Dans le nouvel équipement :
 
 ![presence1](../images/presence_ordre_modes.png)
 
->Attention : 
-Si l'option `Garder le cache lors de l'enregistrement` présentée dans Programmations n'est pas activée où si le déclencheur n'est pas encore connu en cache il faut que ceux-ci changent d'états afin d'être pris en compte. C'est à dire que l'état ne le prendra en compte qu'apès 2 changements. 
+> **Attention :**
+
+>Si l'option `Garder le cache lors de l'enregistrement` présentée dans Programmations n'est pas activée où si le déclencheur n'est pas encore connu en cache il faut que ceux-ci changent d'états afin d'être pris en compte. C'est à dire que l'état ne le prendra en compte qu'apès 2 changements. 
