@@ -9,10 +9,10 @@ Pour ajouter un déclencheur il suffit de cliquer sur "Ajouter déclencheur" pui
 
 Plusieurs états de comparaison sont disponibles :
 
-- < correspond à inférieur à
-- = L'état du déclencheur doit être égal à la valeur renseignée
-- > correspond à supérieur à
-- != correspons à différent de.
+- `<` correspond à inférieur à
+- `=` L'état du déclencheur doit être égal à la valeur renseignée
+- `>` correspond à supérieur à
+- `!=` correspons à différent de.
 
 
 Il est possible de combiner des déclencheurs en utilisant l'opération "Et". A ce moment il faudra que les conditions des déclencheurs "Et" soient toutes validées pour que le mode soit activé.
