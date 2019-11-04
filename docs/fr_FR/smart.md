@@ -23,3 +23,7 @@ L'information Mode doit être historisée (Activée par défaut).
 Allouer un délai d'un mois d'historique avant de voir les anticipations.
 
 ![presence99](../images/presence_smart_mode.png)
+
+__Coefficient chauffage manuel :__ il s’agit du gain du système de régulation . Cette valeur est multipliée par l’écart entre la consigne et la température intérieure mesurée.
+
+__Coefficient inertie manuel :__ ce coefficient est multiplié par l’écart entre la consigne et la température extérieure mesurée.
