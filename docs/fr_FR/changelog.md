@@ -2,6 +2,11 @@
 Changelog 
 =========
 
+3.5.1 (27-03-2020)
+=====
+
+-   Modification timer vérification
+
 3.5.0 (19-09-2019)
 =====
 
